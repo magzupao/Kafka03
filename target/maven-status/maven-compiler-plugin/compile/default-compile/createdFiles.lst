@@ -1,9 +1,0 @@
-springboot\config\KafkaTopicConfig.class
-springboot\controller\JsonMessageController.class
-springboot\kafka\KafkaProducer.class
-springboot\SpringbootKafkaTutorialApplication.class
-springboot\payload\User.class
-springboot\kafka\JsonKafkaConsumer.class
-springboot\kafka\JsonKafkaProducer.class
-springboot\kafka\KafkaConsumer.class
-springboot\controller\MessageController.class
